@@ -1,0 +1,4 @@
+<div class="container">
+    <app-terminal-suggestion class="suggestion" [suggestion]="suggestion"></app-terminal-suggestion>
+    <app-terminal-input class="user-input" (onLineChanged)="onLineChanged($event)" (saveLine)="saveLine($event)" ></app-terminal-input>
+</div>
