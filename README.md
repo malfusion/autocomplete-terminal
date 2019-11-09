@@ -4,4 +4,4 @@ A small project in Angular showcasing an autocompleting terminal that uses a Tri
 ## Demo
 <img src="./docs/autocomplete-terminal.png" height="200"></img>
 
-http://malfusion.github.io/autocomplete-terminal
+https://malfusion.github.io/autocomplete-terminal/
